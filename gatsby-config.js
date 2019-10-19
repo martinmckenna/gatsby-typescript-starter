@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    name: `Marty Blog`,
+    name: `My Blog`,
   },  
   plugins: [
     `gatsby-plugin-typescript`,

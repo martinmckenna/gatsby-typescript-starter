@@ -39,6 +39,9 @@
       "pre-commit": "yarn type && lint-staged && yarn format && git add ."
     }
   },
+  "lint-staged": {
+    "src/**/*.{ts,tsx}": "yarn lint"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"

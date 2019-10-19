@@ -8,7 +8,7 @@ Here's some hot facts about this project:
 
 1. This project uses TypeScript, which allows you to declare all your files with both `.ts` and `.tsx` file types.
 
-2. This project comes with an out-of-the-box [`tsconfig.json`](./tsconfig.json) and [`tslint.json`]('./tslint.json)
+2. This project comes with an out-of-the-box [`tsconfig.json`](./tsconfig.json) and [`tslint.json`](./tslint.json)
 
 3. This project includes a TypeScript prettier config
 
